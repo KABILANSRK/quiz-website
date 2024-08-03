@@ -38,6 +38,46 @@ const quizData = [
         c: "Hyperloop Machine Language",
         d: "Helicopters Terminals Motorboats Lamborghinis",
         correct: "a"
+    },
+    {
+        question: "What year was JavaScript launched?",
+        a: "1996",
+        b: "1995",
+        c: "1994",
+        d: "1993",
+        correct: "b"
+    },
+    {
+        question: "Which company developed the TypeScript language?",
+        a: "Google",
+        b: "Microsoft",
+        c: "Facebook",
+        d: "Apple",
+        correct: "b"
+    },
+    {
+        question: "Which language runs in a web browser?",
+        a: "Java",
+        b: "C",
+        c: "Python",
+        d: "JavaScript",
+        correct: "d"
+    },
+    {
+        question: "What is the capital of Japan?",
+        a: "Seoul",
+        b: "Beijing",
+        c: "Tokyo",
+        d: "Bangkok",
+        correct: "c"
+    },
+    {
+        question: "What does CSS stand for?",
+        a: "Central Style Sheets",
+        b: "Cascading Style Sheets",
+        c: "Cascading Simple Sheets",
+        d: "Cars SUVs Sailboats",
+        correct: "b"
     }
 ];
 
